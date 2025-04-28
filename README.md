@@ -98,7 +98,7 @@ printf("\n"); // New line after output
 ```
 
 ## OUTPUT
-![Screenshot 2025-03-19 140624](https://github.com/user-attachments/assets/5dc8e985-ad67-4f0e-8c06-7c21e813394b)
+![Screenshot 2025-04-28 082032](https://github.com/user-attachments/assets/41046c29-d2b2-4f9d-bb19-22f66869353d)
 
 
 ## RESULT
